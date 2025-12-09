@@ -14,11 +14,11 @@ The email I analyzed is a fake “Microsoft Security Alert” message.
 
 # Phishing Email Analysis Report
 
-## 1. Email Sample
+## Email Sample
 The phishing email was taken from **CanIPhish**, a phishing simulation site.  
 It pretends to come from **“Microsoft 365 Support”**, saying someone accessed your account and asking you to “recover” it.
 
-## 2. Phishing Indicators I Found
+## Phishing Indicators I Found
 
 **1. Suspicious Sender Address**  
 The display name is “Microsoft 365 Support,” but the actual email is `support@office-365-notifications[.]com`.  
@@ -59,7 +59,7 @@ The footer has Microsoft’s official address to look real, but that doesn’t p
 - Report to your security team  
 - Delete or quarantine the email  
 
-## 4. Conclusion
+## Conclusion
 This task helped me:  
 - Spot phishing signs  
 - Analyze email headers for fake/mismatched info  
